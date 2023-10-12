@@ -4,3 +4,25 @@
   border: 0;
   box-sizing: border-box;
 }
+
+body{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size:  16px;
+}
+
+.main{
+  background-color: aquamarine;
+}
+
+.Form-container{
+  border: 3px solid;
+}
+
+
+
+
+
+
+
+
+

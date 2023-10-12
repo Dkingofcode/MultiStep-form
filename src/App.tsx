@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div>
+      <div className="main">
         <h1>Waitlist Form</h1>
      
        <div className='Form-container'>
