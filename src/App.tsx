@@ -1,7 +1,9 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState } from 'react';
+import reactLogo from './assets/react.svg';
+import viteLogo from '/vite.svg';
+import './App.css';
+import SideBg from "./assets/bg-sidebar-desktop.svg";
+
 
 function App() {
   
@@ -12,7 +14,7 @@ function App() {
         <h1>Waitlist Form</h1>
      
        <div className='Form-container'>
-          
+       <img src={SideBg} />            
         <div className='btn-container'>
            <div className='btnOne'>
             <span>1</span>
